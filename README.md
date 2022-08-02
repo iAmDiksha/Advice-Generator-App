@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/89463068/182329634-33d00ad6-b2f3-4fff-ba7c-6da4681b435a.png">
 
 ### Links
 
@@ -34,15 +34,13 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Javascript
 - Fetch API in JS 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@iAmDiksha](https://www.frontendmentor.io/profile/iAmDiksha)
+- Twitter - [@dikshaJain46](https://twitter.com/dikshaJain46)
 
 
