@@ -20,7 +20,7 @@ function adviceGenerator()
 
 if(window.innerWidth < 375){
     let divider = document.querySelector('.divider');
-    divider.src = 'images/pattern-divider-mobile.svg';
+    divider.src = 'pattern-divider-mobile.svg';
     divider.style.width = '200px';
 }
 
